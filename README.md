@@ -1,4 +1,4 @@
-(https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)
+
 
 <h1 align="center">Hi 👋, I'm R44</h1>
 <h3 align="center">all good all good</h3>
