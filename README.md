@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rizwansidd45678" target="blank"><img src="https://img.shields.io/twitter/follow/rizwansidd45678?logo=twitter&style=for-the-badge" alt="rizwansidd45678" /></a> </p>
 
-- 🌱 I’m currently learning **C++ and Data structure and algorithm , etc;,etc;**
+- 🌱 I’m currently learning **C++ and Data structure and algorithm , etc;**
 
 - 📫 How to reach me **rizwan919398@gmail.com**
 
