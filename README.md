@@ -32,7 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r44-git&show_icons=true&locale=en" alt="r44-git" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r44-git&" alt="r44-git" /></p>
+
 
 
 
